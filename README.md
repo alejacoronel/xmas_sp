@@ -5,7 +5,6 @@ A short, original, mobile-friendly retro pixel platform game.
 - Desktop: arrow keys or A/D to move; Space, W, or Up Arrow to jump.
 - Phone: use the on-screen arrows and A/JUMP button.
 - Jump across the blocks, avoid snow buddies, collect piñas, and reach the flagpole to rescue the princess.
-- The ending message is: “¡Feliz Navidad Piñita! de tu princesa 💜💜”
 
 ## Publish with GitHub Pages
 1. Unzip this folder.
